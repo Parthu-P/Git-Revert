@@ -95,6 +95,18 @@ class Emp {
 		return "Emp [id=" + id + ", name=" + name + ", age=" + age + ", loc=" + loc + ", dept=" + dept + ", sal=" + sal
 				+ ", doj=" + doj + "]";
 	}
+	public void getFeature1() {
+		System.out.println();
+	}
+	public void getFeature2() {
+		System.out.println();
+	}
+	public void getFeature21() {
+		System.out.println();
+	}
+	public void getFeature3() {
+		System.out.println();
+	}
 }
 
 public class Demo2 {
