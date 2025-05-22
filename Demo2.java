@@ -101,6 +101,9 @@ class Emp {
 	public void getFeature2() {
 		System.out.println();
 	}
+	public void getFeature21() {
+		System.out.println();
+	}
 }
 
 public class Demo2 {
